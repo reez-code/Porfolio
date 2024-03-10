@@ -1,0 +1,15 @@
+body {
+    background-color: #fcd07e;
+}
+#robot {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+hr {
+    border-top: solid black;
+}
+#project {
+    width: 500px;
+    height: 250px;
+}
